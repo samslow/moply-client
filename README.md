@@ -29,8 +29,6 @@ BGM을 신청받아서 듣고 싶을 때
 
 ### 1. ChatBot
 
----
-
 - Kakao i Open Builder
 
     [카카오 i 오픈빌더](https://i.kakao.com/login)
@@ -43,8 +41,6 @@ BGM을 신청받아서 듣고 싶을 때
 
 ### 2. BackEnd
 
----
-
 - go server(AWS Lambda)
 API Gateway + Lambda + Twirp
 - 기능
@@ -54,8 +50,6 @@ API Gateway + Lambda + Twirp
 - Database
 
 ### 3. FrontEnd
-
----
 
 - React.js
 
@@ -79,8 +73,6 @@ API Gateway + Lambda + Twirp
                 1. 카카오톡 고유 id를 이용해도 되지 않을까?
 
 ### 4. Design
-
----
 
 - 어도비 프로그램, 스케치, 프로토파이
 
